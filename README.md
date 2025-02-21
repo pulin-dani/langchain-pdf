@@ -53,5 +53,3 @@ Run the Docker container using the following command:
 docker run -p 8501:8501 --env-file .env chat-with-pdfs
 ```
 Now, open the browser and type **localhost:8501**, and you can interact with the app.
-##### Author
-- Jazay Ahmad
